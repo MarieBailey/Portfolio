@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+body{
+  margin:0;
+}
+div{
+  outline: lime 1px dotted;
+}
+.header{
+  height: 93px;
+  background-color: #313131;
+  border-bottom: solid 5px #d2504e;
+}
+
+
+
+.logo{
+  width: 250px;
+  float: left;
+}
+
+.menu{
+  float: right;
+  margin-top: 44px;
+  font-family: 'Lato', sans-serif;
+  color: White;
+  font-size: 0.75rem;
+  letter-spacing: 4px;
+  margin-right: 20px;
+}
+
+.menu a{
+  padding-left: 20px;
+
+}
+
+
+.banner{
+ text-align: center;
+ padding-top: 50px;
+ padding-bottom: 50px;
+}
+
+.slideshow{
+  border-top: solid 5px #d2504e;
+  text-align: center;
+  border-bottom: solid 5px #d2504e;
+}
+
+.About{
+padding-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 920px;
+
+}
+
+.About img{
+  float:left;
+  padding-left: 50px;
+}
+
+.text{
+  width: 457px;
+  height: 308px;
+  padding-left: 20px;
+  float:left;
+  font-family: 'Lato', sans-serif;
+}
+
+.Heading{
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+}
+
+.flower{
+  padding-left:120px;
+  text-align: center;
+}
